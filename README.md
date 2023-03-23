@@ -1,5 +1,3 @@
-# Project README
-
 ### Objective
 This project aims to identify performance differences between conventional and experimental image encryption algorithms. This will be accomplished by benchmarking conventional encryption algorithms (RSA, AES, Blowfish) by altering various aspects of the test images (image size, grayscale or RGB) and then comparing these benchmarks to performance data provided by research articles highlighting experimental image encryption algorithms.
  
